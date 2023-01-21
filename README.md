@@ -3,7 +3,7 @@ Once you have cloned or forked please follow the below instructions for setup an
 ### SETUP
 
 - Install dependencies - npm Install
-- Change path of the trackData variable / xlxs file on App.js (line 2-4) to your local path of the file
+- Change path of the trackData variable / xlxs file on `App.js (line 2-4)` to your local path of the file
 - Go to TablePlus or your tool of choice and set up a new connection to `mongodb://0.0.0.0/curveroyaltytest` with name `curveroyaltytest`
 - CD into the root directory of the project and in your CLI run the below
 
@@ -23,3 +23,4 @@ Once you have cloned or forked please follow the below instructions for setup an
 ### TESTS
 
 - To run the tests, please run `mocha tests`
+  <img src="https://github.com/JoeOsborne77/curveRoyaltyChallenge/blob/main/screenrecords/crtests.gif" width="400" height="500" />
