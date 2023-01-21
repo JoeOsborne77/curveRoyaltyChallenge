@@ -4,7 +4,6 @@
   "description": "",
   "main": "App.js",
   "scripts": {
-    "start": "nodemon ./bin/www",
     "start:test": "MONGODB_URL='mongodb://0.0.0.0/curveroyaltytest' npm start",
     "test": "mocha"
   },

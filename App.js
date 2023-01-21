@@ -1,6 +1,6 @@
 const xlsx = require("xlsx");
 const trackData = xlsx.readFile(
-  "/Users/joeosborne/Documents/curveRoyaltyTechTest/data/testTrackData.xlsx"
+  "/Users/joeosborne/Documents/curveRoyaltyChallenge/data/testTrackData.xlsx"
 );
 const sheet = trackData.Sheets[trackData.SheetNames[0]];
 const rows = xlsx.utils.sheet_to_json(sheet);
