@@ -20,6 +20,9 @@ Once you have cloned or forked please follow the below instructions for setup an
 
 ### SCREEN RECORD
 
+  <img src ="https://github.com/JoeOsborne77/curveRoyaltyChallenge/blob/main/screenrecords/curve.gif" width="700" height="400" />
+
+
 ### TESTS
 
 - To run the tests, please run `mocha tests`
